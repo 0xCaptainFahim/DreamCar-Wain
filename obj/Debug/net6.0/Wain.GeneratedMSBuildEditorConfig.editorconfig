@@ -1,0 +1,43 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Wain
+build_property.RootNamespace = Wain
+build_property.ProjectDir = E:\All CSE Resources\CSE 3.2\Captain Fahim\CSE 3200 - SD Lab - V\DreamCar-Wain\DreamCar-Wain\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\All CSE Resources\CSE 3.2\Captain Fahim\CSE 3200 - SD Lab - V\DreamCar-Wain\DreamCar-Wain
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/All CSE Resources/CSE 3.2/Captain Fahim/CSE 3200 - SD Lab - V/DreamCar-Wain/DreamCar-Wain/Views/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/All CSE Resources/CSE 3.2/Captain Fahim/CSE 3200 - SD Lab - V/DreamCar-Wain/DreamCar-Wain/Views/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/All CSE Resources/CSE 3.2/Captain Fahim/CSE 3200 - SD Lab - V/DreamCar-Wain/DreamCar-Wain/Views/Index (1).cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kZXggKDEpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/All CSE Resources/CSE 3.2/Captain Fahim/CSE 3200 - SD Lab - V/DreamCar-Wain/DreamCar-Wain/Views/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/All CSE Resources/CSE 3.2/Captain Fahim/CSE 3200 - SD Lab - V/DreamCar-Wain/DreamCar-Wain/Views/Member.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/All CSE Resources/CSE 3.2/Captain Fahim/CSE 3200 - SD Lab - V/DreamCar-Wain/DreamCar-Wain/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
